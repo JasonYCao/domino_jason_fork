@@ -1,0 +1,12 @@
+{
+  "name": "BatchImageFilterPiece",
+  "description": "A Piece that applies selected image filters to multiple images from a CSV file.",
+  "dependency": {
+    "requirements_file": "requirements_1.txt"
+  },
+  "tags": ["default", "image", "batch", "csv"],
+  "style": {
+    "node_label": "Batch Image Filter",
+    "icon_class_name": "ic:twotone-filter-list"
+  }
+}

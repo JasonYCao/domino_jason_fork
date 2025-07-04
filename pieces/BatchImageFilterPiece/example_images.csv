@@ -1,0 +1,5 @@
+image_path,output_name
+/path/to/image1.jpg,filtered_image1.jpg
+/path/to/image2.png,filtered_image2.png
+/path/to/image3.jpeg,
+/path/to/subfolder/image4.png,custom_output_name.png 
